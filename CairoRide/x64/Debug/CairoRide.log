@@ -1,2 +1,5 @@
 ﻿  CairoRide.cpp
-  CairoRide.vcxproj -> D:\Cairo_Ride\ProjectCairoRide\x64\Debug\CairoRide.exe
+D:\My_Projects\FacultyProject\ProjectCairoRide\Subscription_system.h(5,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'CairoRide.cpp')
+  
+  CairoRide.vcxproj -> D:\My_Projects\FacultyProject\ProjectCairoRide\x64\Debug\CairoRide.exe

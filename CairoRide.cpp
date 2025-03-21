@@ -7,8 +7,9 @@ using namespace std;
 
 int main()
 {
-    
-    cout << "Hello World!";
+    Subcribtion_Menu Menu;
+    Menu.DisplayMenu();
+   
     
     return 0;
 }
