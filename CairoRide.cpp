@@ -1,5 +1,5 @@
 #include <iostream>
-#include  "Individula_Ride.h"
+#include  "Individual_Ride.h"
 using namespace std;
 int main()
 {
